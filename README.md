@@ -39,6 +39,7 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
    - Connect your GitHub repository to Heroku.
    - Search and deploy the forked repository.
    - Back to the app view and refresh the page.
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhuriya12/BHURIYA-TXT)
 
 2. **Configure Dynos**:
    - Configure dynos for `devagagan1` and `devgagan2`.
