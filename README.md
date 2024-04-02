@@ -87,7 +87,7 @@ AUTH = "1234567" #config("AUTH", default=None)
 [<img src="https://img.icons8.com/ios/50/000000/domain--v1.png"/>](https://devgagan.in)
 
 ## Terms of USE / Modification 
-Visit [Terms](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blob/main/TERMS_OF_USE.md) and accept the guidelines.
+Visit [Terms](https://github.com/bhuriya12/Adavance-Content-Saver-Bot) and accept the guidelines.
 
 ## Contributing
 
